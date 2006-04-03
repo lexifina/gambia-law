@@ -1,0 +1,2 @@
+# Schedule 1: Dimensions of the national flag
+DIMENSIONS OF THE NATIONAL FLAG The National Flag of The Gambia shall be a flag of the following design: The flag shall measure twenty-seven units across and eighteen units down. It shall be divided into horizontal stripes which shall have the following Colours and dimensions from the top to the bottom: Red- six units one third White- one unit Blue- four units one third White- one unit Green- six units one third.
