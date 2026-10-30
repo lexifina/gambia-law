@@ -1,0 +1,19 @@
+{
+ "country": "GM",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Const.",
+   "title": "Constitution of the Republic of The Gambia, 1997 (reprinted 2002)",
+   "url": "https://national-assembly.ams3.digitaloceanspaces.com/key-documents/VW6fALCcLURgQrtl18AAJfYSVcKpNbBycKo7IxOD.pdf",
+   "versions": [
+    {
+     "from": "2006-04-03",
+     "units": 225,
+     "source_url": "https://national-assembly.ams3.digitaloceanspaces.com/key-documents/VW6fALCcLURgQrtl18AAJfYSVcKpNbBycKo7IxOD.pdf",
+     "sha256": "c558c8caf181c7cb8f72216151a144d37cbe9b5e9b6caf1bf0a11242ade2d0bf"
+    }
+   ]
+  }
+ ]
+}

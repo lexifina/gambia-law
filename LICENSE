@@ -1,0 +1,11 @@
+The legal text is the Constitution of the Republic of The Gambia, 1997 ("reprinted 2002"), as published by the National Assembly of
+The Gambia (https://assembly.gm/constitution; the same text is on the Ministry of Justice site, https://www.moj.gm), retrieved
+30 October 2026. The site states no licence and no restriction on reuse. The text of a constitution is an official legislative
+text; we have not verified whether the Copyright Act 2004 expressly excludes such texts.
+
+Changes made by Lexifina: the text was converted to one Markdown file per section, line breaks within a paragraph were joined,
+marginal notes and page numbers were dropped, and typographic quotes and dashes were normalised. The wording of the law was not
+changed. The National Assembly does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages and the tools) are dedicated to the
+public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

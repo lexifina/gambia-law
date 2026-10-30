@@ -1,0 +1,202 @@
+{
+ "retrieved": "2026-10-28",
+ "listing": "https://assembly.gm/documents/type/acts?page=1..9 (537 entries)",
+ "documents": [
+  {
+   "url": "https://national-assembly.ams3.digitaloceanspaces.com/key-documents/VW6fALCcLURgQrtl18AAJfYSVcKpNbBycKo7IxOD.pdf",
+   "title": "Constitution of the Republic of The Gambia, 1997, 'REPRINED 2002' (National Assembly, linked from assembly.gm/constitution)",
+   "sha256": "c558c8caf181c7cb8f72216151a144d37cbe9b5e9b6caf1bf0a11242ade2d0bf",
+   "bytes": 705168,
+   "pages": 142,
+   "text_layer_chars": 279459,
+   "status": "text layer"
+  },
+  {
+   "url": "https://www.moj.gm/download-file/6003a960-bea2-11e9-b2ca-02e599c15748",
+   "title": "The Gambia Constitution 1997 (2002 revision) (Ministry of Justice downloads)",
+   "sha256": "44f5fb68c93b9f0505136d01cacf1db55ccf05eeeb61b84617cb61504dec95d5",
+   "bytes": 1272574,
+   "pages": 142,
+   "text_layer_chars": 279459,
+   "status": "text layer"
+  },
+  {
+   "url": "https://assembly.gm/documents/320/download",
+   "title": "Constitution of the Republic of The Gambia 1997 (Amendment) Act 2004",
+   "sha256": "11b157765b455b62e462a2a5ad8ae690391bfd4955e4223cf1a105eb32b5837c",
+   "bytes": 406715,
+   "pages": 2,
+   "text_layer_chars": 0,
+   "status": "scan (no text layer; not used: no OCR)"
+  },
+  {
+   "url": "https://assembly.gm/documents/229/download",
+   "title": "Constitution ... 1997 (Amendment) Act 2006",
+   "sha256": "38fc2695814ae7bc3fc8c9b20b3339952a435bbb9657c2593d7e2cab50dad314",
+   "bytes": 513302,
+   "pages": 2,
+   "text_layer_chars": 0,
+   "status": "scan (no text layer; not used: no OCR)"
+  },
+  {
+   "url": "https://assembly.gm/documents/244/download",
+   "title": "Constitution ... 1997 (Amendment) (No 2) Act 2006",
+   "sha256": "2979516da97cd6f7b2b499a6e7cd6548641118e5023ec49b353cd36c41d3dc0a",
+   "bytes": 408016,
+   "pages": 2,
+   "text_layer_chars": 0,
+   "status": "scan (no text layer; not used: no OCR)"
+  },
+  {
+   "url": "https://assembly.gm/documents/217/download",
+   "title": "Constitution ... 1997 (Amendment) Act 2007",
+   "sha256": "46ed6519b3f8cbbc2c4f0322250a98a0f61a7c785fbd9aac897375888eae3fb8",
+   "bytes": 693906,
+   "pages": 2,
+   "text_layer_chars": 0,
+   "status": "scan (no text layer; not used: no OCR)"
+  },
+  {
+   "url": "https://assembly.gm/documents/51/download",
+   "title": "Constitution (Amendment) Act, 2015",
+   "sha256": "93bdd6895b3d0d2c91e80b1a09ac8454d7a3a97b903763ade34381139904292b",
+   "bytes": 780311,
+   "pages": 2,
+   "text_layer_chars": 0,
+   "status": "scan (no text layer; not used: no OCR)"
+  },
+  {
+   "url": "https://assembly.gm/documents/41/download",
+   "title": "Constitution (Amendment) Act, 2017",
+   "sha256": "8eb3f0ff52013a9623a43f755cf0239bda52ce0c4616ff4a103f602f6511ac01",
+   "bytes": 589165,
+   "pages": 2,
+   "text_layer_chars": 0,
+   "status": "scan (no text layer; not used: no OCR)"
+  },
+  {
+   "url": "https://assembly.gm/documents/42/download",
+   "title": "Constitution (Amendment No 2) Act, 2017",
+   "sha256": "d23ce3a75f23a7b68eda13adfb083485482d4b30302c120967b37b48098c61be",
+   "bytes": 779856,
+   "pages": 3,
+   "text_layer_chars": 0,
+   "status": "scan (no text layer; not used: no OCR)"
+  },
+  {
+   "url": "https://assembly.gm/documents/15/download",
+   "title": "Constitution (Amendment) Bill, 2023 (bill tracker: Rejected)",
+   "sha256": "d812a58d98f13a2e81f50ee09baf4cafcf6e4b4271e8bed14fca9ebac6691664",
+   "bytes": 86557,
+   "pages": 2,
+   "text_layer_chars": 2408,
+   "status": "text layer"
+  },
+  {
+   "url": "https://assembly.gm/documents/16/download",
+   "title": "Labour Act, 2023",
+   "sha256": "ed7145cc2cc6bdd98dd29f8a30135eb77de5cec1c9e0304791c19792ee5c2541",
+   "bytes": 915302,
+   "pages": 108,
+   "text_layer_chars": 181280,
+   "status": "text layer"
+  },
+  {
+   "url": "https://assembly.gm/documents/24/download",
+   "title": "The Gambia Anti-Corruption Act, 2023",
+   "sha256": "9e27b2be502763ea7a877eb479d9ac2de3ead736c3fc0967e3f84415e63d3c99",
+   "bytes": 388242,
+   "pages": 52,
+   "text_layer_chars": 103053,
+   "status": "text layer"
+  },
+  {
+   "url": "https://assembly.gm/documents/285/download",
+   "title": "Children's Act, 2005",
+   "sha256": "d0cba075713fbd6a8d182d6a1117a4494386f98c254a5027138443c6049a413a",
+   "bytes": 519897,
+   "pages": 114,
+   "text_layer_chars": 194740,
+   "status": "text layer"
+  },
+  {
+   "url": "https://assembly.gm/documents/50/download",
+   "title": "Children's Amendment Act 2015",
+   "sha256": "555c2de23c858027f5a821b4e006d5414a03dc398ca95f8e33ef6ac77fc84ba6",
+   "bytes": 817285,
+   "pages": 3,
+   "text_layer_chars": 0,
+   "status": "scan (no text layer; not used: no OCR)"
+  },
+  {
+   "url": "https://assembly.gm/documents/204/download",
+   "title": "Women's Act, 2010",
+   "sha256": "bbc6b08def2bca608c25bddb876b63bcbdfa17ae42e569c51ab350fd9b8af0ce",
+   "bytes": 3300811,
+   "pages": 32,
+   "text_layer_chars": 50832,
+   "status": "text layer"
+  },
+  {
+   "url": "https://assembly.gm/documents/93/download",
+   "title": "Women's (Amendment) Act 2015",
+   "sha256": "46cd647c378aef1b15fb10c0de12221802d867fc78c440bc1c6cf849feff6197",
+   "bytes": 1226690,
+   "pages": 4,
+   "text_layer_chars": 0,
+   "status": "scan (no text layer; not used: no OCR)"
+  },
+  {
+   "url": "https://www.moj.gm/download-file/cbd802b8-db92-11e9-b2ca-02e599c15748",
+   "title": "National Human Rights Commission Act, 2017 (MoJ; carries Word tracked-change markup)",
+   "sha256": "3b6e2a4a68ea9f51e43a43974ebb87041add863be85982f8579196f537e7eb04",
+   "bytes": 147430,
+   "pages": 21,
+   "text_layer_chars": 30986,
+   "status": "text layer"
+  },
+  {
+   "url": "https://www.moj.gm/download-file/b9a4c702-c007-11e9-b2ca-02e599c15748",
+   "title": "Truth, Reconciliation and Reparations Commission Act, 2017 (MoJ)",
+   "sha256": "20845b8da65a0859272f7d874fedf5d21757f0d224aba31880591a2053ada5d0",
+   "bytes": 2195343,
+   "pages": 24,
+   "text_layer_chars": 42,
+   "status": "scan (no text layer; not used: no OCR)"
+  },
+  {
+   "url": "https://www.moj.gm/download-file/1035847d-c008-11e9-b2ca-02e599c15748",
+   "title": "Constitutional Review Commission Act, 2017 (MoJ)",
+   "sha256": "023205168335d1add74733d7daba35e110041d6a338deaf601ebc14dccc1c806",
+   "bytes": 1466804,
+   "pages": 14,
+   "text_layer_chars": 42,
+   "status": "scan (no text layer; not used: no OCR)"
+  },
+  {
+   "url": "https://www.moj.gm/download-file/0b03bea6-db9a-11ee-8b02-025103a708b7",
+   "title": "Victims Reparations Act, 2023 (MoJ)",
+   "sha256": "6b403103e20f4dd7be6c40c7a3964bc982b317450d965c035def5046a1e436b4",
+   "bytes": 164617,
+   "pages": 34,
+   "text_layer_chars": 43542,
+   "status": "text layer"
+  },
+  {
+   "url": "https://www.moj.gm/download-file/58115c68-8ffb-11ea-837b-025103a708b7",
+   "title": "CRC Explanatory Memorandum to the Draft Constitution, 30 March 2020 (MoJ)",
+   "sha256": "62ddb99c1be075dbfb1a7181e8eb1c9a398b04f3d68599f0d8a100d44e84d604",
+   "bytes": 580371,
+   "pages": 23,
+   "text_layer_chars": 58542,
+   "status": "text layer"
+  }
+ ],
+ "not_retrieved": [
+  {
+   "url": "https://assembly.gm/documents/272/download",
+   "title": "Constitution ... 1997 (Amendment) Act 2009 (download answered HTTP 500)",
+   "status": "not retrieved"
+  }
+ ]
+}
