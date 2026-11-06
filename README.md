@@ -1,5 +1,7 @@
 # The Gambia: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Gambia's national law, which global-law reads at `gambia/national/acts/`.
+
 The law of The Gambia (GM) as a git history: one file per provision, one commit per law on the day it took effect, and the law that made the change as the commit author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `gm/`.
 
 **Small build (first build).** Language: English (the official language).
