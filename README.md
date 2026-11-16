@@ -57,6 +57,7 @@ That version is credited to the publisher, `National Assembly of The Gambia (ass
 - `tools/build.py` writes the history from one corpus file in one pass, and the same corpus always gives the same commit hashes; its sha256 is in [`data/corpus.sha256`](data/corpus.sha256).
 - `tools/check_repo.py` reads every version back from git on the day it took effect, compares it file by file with the corpus, and checks every commit's trailers and that `main` has no merge commits and no dates going backwards or in the future.
 - [`REPRODUCE.md`](REPRODUCE.md) records that these checks have not yet been run for this build and that no second build has been compared.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -78,6 +79,10 @@ That version is credited to the publisher, `National Assembly of The Gambia (ass
 See [`LICENSE`](LICENSE). The National Assembly states no licence and no restriction on reuse; whether the Copyright Act 2004 excludes official texts has not been verified. Lexifina's own contributions (the arrangement of the history, the commit messages and the tools) are CC0 1.0.
 
 No model wrote, translated or corrected legal text, and no model runs at build time; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
